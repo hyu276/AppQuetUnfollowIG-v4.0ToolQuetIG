@@ -8,7 +8,7 @@ Một công cụ tiện lợi cho phép bạn xem ai không follow lại bạn t
 
 Phiên bản này dùng API của Instagram nên hiệu quả hơn. Vì là sử dụng API nên bạn không cần phải cung cấp mật khẩu hay gì cả. Qua đó không sợ bị đánh cắp thông tin, cookie và token.   
 
-## 🖥️ Desktop Usage
+## 🖥️ **Dùng trên máy tính**
 
 1. Copy the code from: [Docs của Huy](https://docs.google.com/document/d/1VDtMoQVkZRm30Bs1r9D54YrJHlyNPcp5V4rCSKTPjgY/edit?usp=sharing)
 
