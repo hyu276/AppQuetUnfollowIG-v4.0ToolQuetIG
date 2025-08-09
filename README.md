@@ -1,6 +1,5 @@
 # 📱 HƯỚNG DẪN SỬ DỤNG: Phần mềm Hyu's Check Instagram Unfollowers -- v 0.1 Beta
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://github.com/davidarroyo1234/InstagramUnfollowers)
 
 Một công cụ tiện lợi cho phép bạn xem ai không follow lại bạn trên Instagram.  
 <u>Chạy trên trình duyệt, không cần tải hay cài đặt gì cả!</u>
