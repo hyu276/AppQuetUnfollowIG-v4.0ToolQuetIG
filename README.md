@@ -1,4 +1,6 @@
-# 📱 HƯỚNG DẪN SỬ DỤNG: Phần mềm Hyu's Check Instagram Unfollowers -- v 0.1 Beta
+# 📱 HƯỚNG DẪN SỬ DỤNG: Phần mềm Hyu's Check Instagram Unfollowers -- v 0.2 Beta
+## Cải tiến
+1. Sử dụng API Gemini Pro để research account công chúng/nổi tiếng cho lần quét đầu
 
 
 Một công cụ tiện lợi cho phép bạn xem ai không follow lại bạn trên Instagram.  
